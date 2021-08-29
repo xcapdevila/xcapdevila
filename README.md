@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 &nbsp;Hi there! I'm Xavier Capdevila
-</br>
+# 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
-## 👨🏻‍💻 &nbsp;About Me
-
-- 🌍&nbsp;&nbsp;[capdevila.io](https://www.capdevila.io)
-- 🔭&nbsp;&nbsp;Head of Software Engineering & Payments Platform Owner
+- 🌍&nbsp;&nbsp;[__capdevila.io__](https://www.capdevila.io)
+- 👨🏻‍💻&nbsp;&nbsp;__Head of Software Engineering__ & __Payments Platform Owner__
 - 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio)
 - 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
 - ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS)
