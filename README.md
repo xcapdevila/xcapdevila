@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS)
 - 🌱&nbsp;&nbsp;Always evolving through continuous training
 - 👮&nbsp;&nbsp;Knowledge in security & compliance in complex solutions (f.e. under [PCI-DSS](https://www.pcisecuritystandards.org/) standards)
-- &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
+- &nbsp;₿&nbsp;&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
 - 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me.
 - 🤝🏻&nbsp;&nbsp;Connect with me on [LinkedIn](https://linkedin.com/in/xcapdevila)
 </br>
