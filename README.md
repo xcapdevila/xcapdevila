@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 # 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
 - 🌍&nbsp;&nbsp;[__capdevila.io__](https://www.capdevila.io)
-- 👨🏻‍💻&nbsp;&nbsp;&nbsp;__Head of Software Engineering__ & __Payments Platform Owner__
+- 👨🏻‍💻&nbsp;&nbsp;&nbsp;__Software Architect & Craftsmanship__
 - 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio)
 - 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
-- ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS)
+- ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS) as well as on-premise
 - 🌱&nbsp;&nbsp;Always evolving through continuous training
 - 👮&nbsp;&nbsp;Knowledge in security & compliance in complex solutions (f.e. under [PCI-DSS](https://www.pcisecuritystandards.org/) standards)
 - &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
