@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
 - 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me.
 - 🤝🏻&nbsp;&nbsp;Connect with me on [LinkedIn](https://linkedin.com/in/xcapdevila)
+- 🌎&nbsp;&nbsp;[More about me](https://xcapdevila.github.io/)&nbsp;&nbsp;🌍
 </br>
