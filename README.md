@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
 - ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS) as well as on-premise
 - 🌱&nbsp;&nbsp;Always evolving through continuous training
-- 💳&nbsp;&nbsp;Payment solutions specialist
+- 💳&nbsp;&nbsp;Digital Payments solutions specialist
 - 👮&nbsp;&nbsp;Knowledge in security & compliance in complex solutions (f.e. under [PCI-DSS](https://www.pcisecuritystandards.org/) standards)
 - &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
 - 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me.
