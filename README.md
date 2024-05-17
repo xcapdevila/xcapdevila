@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 # 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
 - 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Craftsmanship__ @ [Inditex](https://www.inditex.com/)&nbsp;&nbsp;👔
-- 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio)
+- 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio) & Master in Business Administration and Management at [thePowerMBA](https://lt.thepower.education/mba)
 - 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
 - ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS) as well as on-premise
 - 🌱&nbsp;&nbsp;Always evolving through continuous training
 - 💳&nbsp;&nbsp;Digital Payments solutions specialist
 - 👮&nbsp;&nbsp;Knowledge in security & compliance in complex solutions (f.e. under [PCI-DSS](https://www.pcisecuritystandards.org/) standards)
-- &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts
-- 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me.
+- &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts and Artificial Intelligence
+- 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me
 - 🤝🏻&nbsp;&nbsp;Connect with me on [LinkedIn](https://linkedin.com/in/xcapdevila)
 - 🌎&nbsp;&nbsp;[More about me](https://xcapdevila.github.io/)&nbsp;&nbsp;🌍
 </br>
