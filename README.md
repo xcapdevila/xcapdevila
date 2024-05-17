@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
 - 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Craftsmanship__ @ [Inditex](https://www.inditex.com/)&nbsp;&nbsp;👔
-- 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio) & Master in Business Administration and Management at [thePowerMBA](https://lt.thepower.education/mba)
+- 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio)
+- 🖥️&nbsp;&nbsp;Master in Business Administration and Management at [thePowerMBA](https://lt.thepower.education/mba)
 - 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
 - ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS) as well as on-premise
 - 🌱&nbsp;&nbsp;Always evolving through continuous training
