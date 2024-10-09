@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 
 # 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
-- 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Craftsmanship__ @ [Inditex](https://www.inditex.com/)&nbsp;&nbsp;👔
-- 🎓&nbsp;&nbsp;Graduated on Computer Science at [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio)
-- 🖥️&nbsp;&nbsp;Master in Business Administration and Management at [thePowerMBA](https://lt.thepower.education/mba)
-- 🏅&nbsp;&nbsp;SCRUM certified (PSPO-I, PSM-I) at [Scrum.org](https://www.scrum.org/) and Kubernetes certified (CKAD) at [Linux Foundtation](https://www.linuxfoundation.org/)
-- ☁️&nbsp;&nbsp;Used to work on cloud environments (mostly GCP and AWS) as well as on-premise
-- 🌱&nbsp;&nbsp;Always evolving through continuous training
-- 💳&nbsp;&nbsp;Digital Payments solutions specialist
-- 👮&nbsp;&nbsp;Knowledge in security & compliance in complex solutions (f.e. under [PCI-DSS](https://www.pcisecuritystandards.org/) standards)
-- &nbsp;₿&nbsp;&nbsp;&nbsp;Interested on Blockchain & Smart Contracts and Artificial Intelligence
-- 💬&nbsp;&nbsp;I like to stay in touch with other IT experts, so don't hesitate to contact me
-- 🤝🏻&nbsp;&nbsp;Connect with me on [LinkedIn](https://linkedin.com/in/xcapdevila)
-- 🌎&nbsp;&nbsp;[More about me](https://xcapdevila.github.io/)&nbsp;&nbsp;🌍
+- 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Engineering Leader__ at [Inditex](https://www.inditex.com/) 👔, with over 11 years of experience in designing scalable, secure, and enterprise-grade IT systems.
+- 🎓&nbsp;&nbsp;Graduated with a __Computer Engineering Degree__ from [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio), specialized in Software Engineering.
+- 🖥️&nbsp;&nbsp;Earned an __MBA__ from [thePowerMBA](https://lt.thepower.education/mba), with a focus on business management and administration.
+- 🏅&nbsp;&nbsp;Certified in __SCRUM__ (PSPO-I, PSM-I) by [Scrum.org](https://www.scrum.org/) and __Kubernetes__ (CKAD) by [Linux Foundation](https://www.linuxfoundation.org/).
+- ☁️&nbsp;&nbsp;Skilled in cloud technologies (GCP, AWS) and on-premise environments, integrating CI/CD pipelines, microservices architecture, and DevSecOps practices.
+- 💳&nbsp;&nbsp;Specialist in __Digital Payment Systems__ and __PCI-DSS Compliance__, with hands-on experience in building secure, compliant, and high-performing payment solutions.
+- ₿&nbsp;&nbsp;Enthusiast of __Blockchain__, __Smart Contracts__, and __Artificial Intelligence__, always exploring new technologies and innovative applications.
+- 🌱&nbsp;&nbsp;Committed to continuous learning and staying at the forefront of emerging technologies.
+- 💬&nbsp;&nbsp;Love connecting with fellow IT professionals—feel free to reach out!
+- 🤝🏻&nbsp;&nbsp;Connect with me on [LinkedIn](https://linkedin.com/in/xcapdevila) and explore my projects or collaborations.
+- 🌎&nbsp;&nbsp;[Learn more about me](https://xcapdevila.github.io/) 🌍
 </br>
