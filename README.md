@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 &nbsp;Hi there! I'm Xavier Capdevila
 
-- 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Engineering Leader__ at [Inditex](https://www.inditex.com/) 👔, with over 11 years of experience in designing scalable, secure, and enterprise-grade IT systems.
+- 👨🏻‍💻&nbsp;&nbsp;__Software Architect & Engineering Leader__ at [Inditex](https://www.inditex.com/) 👔, with over 13 years of experience in designing scalable, secure, and enterprise-grade IT systems.
 - 🎓&nbsp;&nbsp;Graduated with a __Computer Engineering Degree__ from [Universitat Oberta de Catalunya](https://estudis.uoc.edu/ca/graus/enginyeria-informatica/presentacio), specialized in Software Engineering.
 - 🖥️&nbsp;&nbsp;Earned an __MBA__ from [thePowerMBA](https://lt.thepower.education/mba), with a focus on business management and administration.
 - 🏅&nbsp;&nbsp;Certified in __SCRUM__ (PSPO-I, PSM-I) by [Scrum.org](https://www.scrum.org/) and __Kubernetes__ (CKAD) by [Linux Foundation](https://www.linuxfoundation.org/).
