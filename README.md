@@ -1,3 +1,5 @@
+[![Architecture. Engineering. Business. From real problems to working software.](assets/profile-banner.png)](https://xcapdevila.github.io/)
+
 # 👋 Hi, I'm Xavier Capdevila
 
 **Software Architect · Senior Staff Engineer · Engineering Leadership**
